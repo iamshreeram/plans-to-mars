@@ -15,6 +15,14 @@ This repo will contains list of things to do in Mars.
 * 
 *
 
+Add your details to below table after adding your contribution. 
+
+## List of contributors
+
+| S.No     | Contributor |
+| ----------- | ----------- |
+|  1.     | [Shreeram](https://github.com/iamshreeram)       |
+|  2.  |         |
 
 ## Special Thanks 
  - Thanks to Spacex's `Falcon` starship and to the visionary `Elon Musk` for ideation of colonizing Mars
