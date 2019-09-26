@@ -1,9 +1,9 @@
-# plans-to-mars [Hacktoberfest 2019]
+# Trip to Mars with Big Falcon Rocket by SpaceX [Hacktoberfest 2019]
 This repo will contains list of things to do in Mars. 
 
 ## How to contribute
 1. Create a `fork` of this repository
-2. Add your `idea` on what to do after reaching mars on SpaceX's starship (`Falcon`)?
+2. Add your `idea` on what to do after reaching mars on SpaceX's spacecraft (`Falcon`)?
 3. Ideas can vary like, 
   - Constructing houses for humans for living
   - Setting up the research for next habitable planet 
