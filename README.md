@@ -3,7 +3,7 @@ This repo will contains list of things to do in Mars.
 
 ## How to contribute
 1. Create a `fork` of this repository
-2. Add your `idea` on what to do after reaching mars on SpaceX's spacecraft (`Falcon`)?
+2. Add your `idea` on what to do for reaching mars / after reaching mars with SpaceX's spacecraft (`Falcon`)?
 3. Ideas can vary like, 
   - Constructing houses for humans for living
   - Setting up the research for next habitable planet 
