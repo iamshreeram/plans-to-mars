@@ -19,7 +19,6 @@ This repo will contains list of things to do in Mars.
 * Take robots from earth which can help humans in creating `Type III civilization`
 * Construct machines that can help in creating renewable source of energy 
 * 
-*
 
 Add your details to below table after adding your contribution. 
 
