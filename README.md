@@ -1,15 +1,19 @@
 # Trip to Mars with Big Falcon Rocket by SpaceX [Hacktoberfest 2019]
 This repo will contains list of things to do in Mars. 
 
-## To win the hacktoberfest, You can just add 1 line idea to this markdown.
+## To win the hacktoberfest, You can just add 1 line idea to this file
 
-### Steps below :
-1. Create a `fork` of this repository
-2. Add your `idea` on what to do for reaching mars / after reaching mars with SpaceX's spacecraft (`Falcon`)?
-3. Ideas can vary like, 
+### Steps below to Win
+1. Click edit button of this `README.md`. (This will create a fork of this repo)
+2. Add your `idea` on `Things to do in Mars / do for Mars` (what to do for reaching mars / after reaching mars) with SpaceX's spacecraft (`Falcon`)?
+4. Ideas can vary like, 
     - Constructing houses for humans for living
     - Setting up the research for next habitable planet 
     - 
+5. Click green `commit` button on the bottom of the page
+6. Raise `New Pull Request` on top
+7. Do this for 5 times with 5 different idea in the month of `October 2019`
+
 
 ## Things to do in Mars / do for Mars
 * Take robots from earth which can help humans in creating `Type III civilization`
