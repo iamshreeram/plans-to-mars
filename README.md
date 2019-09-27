@@ -26,6 +26,7 @@ This repo will contains list of things to do in Mars.
 * Take robots from earth which can help humans in creating `Type III civilization`
 * Construct machines that can help in creating renewable source of energy 
 * Research and identify cement like recipe using local material for building habitats.
+* 
 
 Add your details to below table after adding your contribution. 
 
@@ -34,7 +35,8 @@ Add your details to below table after adding your contribution.
 | S.No     | Contributor |
 | ----------- | ----------- |
 |  1.     | [Shreeram](https://github.com/iamshreeram)       |
-|  2.  |         |
+|  2.  | [Chad](https://github.com/chad-ballay)        |
+|  3.  |        |
 
 ## Special Thanks 
  - Thanks to Spacex's `Falcon` starship and to the visionary `Elon Musk` for ideation of colonizing Mars
