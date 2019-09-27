@@ -25,7 +25,7 @@ This repo will contains list of things to do in Mars.
 ## Things to do in Mars / do for Mars
 * Take robots from earth which can help humans in creating `Type III civilization`
 * Construct machines that can help in creating renewable source of energy 
-* 
+* Research and identify cement like recipe using local material for building habitats.
 
 Add your details to below table after adding your contribution. 
 
