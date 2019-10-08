@@ -26,7 +26,8 @@ This repo will contains list of things to do in Mars.
 * Take robots from earth which can help humans in creating `Type III civilization`
 * Construct machines that can help in creating renewable source of energy 
 * Research and identify cement like recipe using local material for building habitats.
-* 
+* Reduced sunlight so larger solar array designs using Mars environment constraints.  (Wind, dust, gravity, etc...)
+* Nitrogen isn't as readily found on Mars compared to Earth.  Will need to overcome that for fertilizer and other agricultural needs.
 
 Add your details to below table after adding your contribution. 
 
