@@ -1,6 +1,6 @@
 <p align="center">
     <a href="#">
-        <img src="./static/hbg.png" />
+        <img src="./static/hbg.jpg" />
     </a>
     <br/> <br/>
 </p>
@@ -36,7 +36,8 @@ Add your details to below table after adding your contribution.
 | S.No     | Contributor |
 | ----------- | ----------- |
 |  1.     | [Shreeram](https://github.com/iamshreeram)       |
-|  2.  |         |
+|  2.  | [Chad](https://github.com/chad-ballay)        |
+|  3.  |        |
 
 ## Special Thanks 
  - Thanks to Spacex's `Falcon` starship and to the visionary `Elon Musk` for ideation of colonizing Mars
